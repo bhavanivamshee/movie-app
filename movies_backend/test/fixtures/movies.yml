@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  movie_name: MyString
+  description: MyString
+  streaming_service: MyString
+  watched: false
+  imdb_link: MyString
+  image: MyString
+  category: one
+
+two:
+  movie_name: MyString
+  description: MyString
+  streaming_service: MyString
+  watched: false
+  imdb_link: MyString
+  image: MyString
+  category: two
