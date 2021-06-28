@@ -1,1 +1,14 @@
-hi
+Categories has many movies
+Movie belongs to Categories
+
+Category 
+- name
+
+movies
+- name
+- description
+- streaming_service
+- watched (boolean)
+- IMDB link
+- image
+- category_id
